@@ -1,6 +1,6 @@
 {
   "name": "wx-twice-share",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "解决微信二次分享问题",
   "main": "dist/index.js",
   "module": "es/index.js",
