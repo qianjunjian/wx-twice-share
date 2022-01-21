@@ -28,7 +28,7 @@
 
 ## 只需要微信分享
     import { wxshare } from "wx-twice-share"；
-    share({
+    wxshare({
         debug: false
         appId: "***",  // 后台返回之前获取的appId
         timestamp: "***", // 必填，后台接口生成签名的时间戳
